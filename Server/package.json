@@ -1,0 +1,21 @@
+{
+  "name": "sys-design-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "redis": "^4.6.14"
+  }
+}
